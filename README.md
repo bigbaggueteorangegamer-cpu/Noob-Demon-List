@@ -1,48 +1,66 @@
-# Welcome to the Geometry Dash Shitty List template!
+# Noob Demonlist
 
-# FAQ
+**The official ranking of the hardest Easy Demons... for noobs.**
 
----
-
-### Website FAQ
-
-Can I use the Shitty List template?
-
-- Sure. Credits to the shitty list are embedded onto this template so keep that in.
-
-The website isn't loading! What can I do?
-
-- Since no webhost is perfect, downtime is expected. You can either wait till the
-  website is back online or you can do some behind the scene stuff and run it
-  locally.
+Forget Pointercrate. This is the list where *The Nightmare* is mid and **Phobos for Noobs** is the final boss.
 
 ---
 
-### Usage FAQ
+### What is this?
 
-How do I add levels to the list?
+A community-driven list ranking Easy Demons (and the softest Medium Demons) from hardest to easiest **for beginner/intermediate players**.
 
-- Use one of the provided template json files and modify the details to fill in the details
-  accordingly. If there are any errors, the site will not load, or you will get a pop up
-  saying which level isn't loading.
+- Top of the list = hardest for noobs  
+- Bottom of the list = free stars  
 
-How do I add records to the list?
-
-- Again, use one of the given templates, and modify the details accordingly. For mobile
-  records, you can add the code `mobile: true` within the braces. Make sure there are no
-  excess or missing commas, or the website might not load properly.
-
-What are some common reasons for the website not loading?
-
-- The most common cause is missing commas and inverted commas, or extra commas at the end of
-  the last lines within list entries. A good way to find the error-causing lines can be found
-  by using `Inspect Element` and going to the `Console` tab.
+### Current #1
+**Phobos for Noobs** *(placeholder — replace with your actual top level)*
 
 ---
 
-## More Coming Soon!
+### Rules
 
-## Repo Maintainers:
+**Records**
+- Must be 100% (or the required percent)
+- Clicks / source audio preferred
+- Mobile records allowed (mark them as mobile)
+- No hacks, no secret ways (unless the level is marked as cheese)
 
-- Prometheus
-- Emonadeo
+**Placements**
+- Only rated Easy Demons (or extremely soft Mediums)
+- Difficulty is judged for players who just started beating demons
+- List owner has final say
+
+---
+
+### How to submit a record
+
+1. Beat the level
+2. Record it with clicks or source audio
+3. Open an issue or contact a list mod with:
+   - Level name
+   - Your username
+   - Video link
+   - Percentage
+   - Refresh rate
+
+---
+
+### Credits
+
+- Template by [TheShittyList](https://github.com/TheShittyList/GDListTemplate)
+- List maintained by **[Your Name]**
+- Special thanks to everyone who contributes records and suggestions
+
+---
+
+### Links
+
+- Live List: *(add your GitHub Pages link here)*
+- Discord: *(optional)*
+- YouTube: *(optional)*
+
+---
+
+**Made for noobs, by noobs.**  
+Go beat some demons.
